@@ -2,14 +2,16 @@
 
 JSON Lines formatted data on things you can catch, capture, and acquire in New Horizons
 
-## Fish And Bugs
+## Data
+
+### Fish and Bugs
 
 `fish.jsonl` and `bugs.jsonl` is a json lines file of objects.  Objects on each line in the file have the following fields:
 * `name` - String
 * `location` - String
 * `price` - int.  sell price in bells
 * `times` - either `"All"` or a non-empty array of objects with fields `start` and `end`, where the values are ints which correspond to the 0-23 hour of the day.
-* `months` - either `"All"` or an object with fields named `north` and `south`.  each of those fields has a value which is an object with fields `start` and `end` where the values are 1-12 index of the month in the year.
+* `months` - either `"All"` or an object with fields named `north` and `south`.  each of those fields has a value which is an array of object with fields `start` and `end` where the values are 1-12 index of the month in the year.
 
 ## `jq` Recipes
 
