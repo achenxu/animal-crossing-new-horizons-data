@@ -46,7 +46,7 @@
 {"name":"Violin Beetle","location":"On tree stumps","price":450,"times":"All","months":{"north":[{"start":5,"end":6},{"start":9,"end":11}],"south":[{"start":11,"end":12},{"start":3,"end":4}]}}
 {"name":"Citrus Long-horned Beetle","location":"On tree stumps","price":350,"times":"All","months":"All"}
 {"name":"Rosalia Batesi Beetle","location":"On tree stumps","price":3000,"times":"All","months":{"north":[{"start":5,"end":9}],"south":[{"start":11,"end":3}]}}
-{"name":"Blue Weevil Beetle","location":"","price":800,"times":"All","months":{"north":[{"start":7,"end":8}],"south":[{"start":1,"end":2}]}}
+{"name":"Blue Weevil Beetle","location":"On palm trees","price":800,"times":"All","months":{"north":[{"start":7,"end":8}],"south":[{"start":1,"end":2}]}}
 {"name":"Dung Beetle","location":"Pushing snowballs","price":3000,"times":"","months":{"north":[{"start":12,"end":2}],"south":[{"start":6,"end":8}]}}
 {"name":"Earth-boring Dung Beetle","location":"On ground","price":300,"times":"All","months":{"north":[{"start":7,"end":9}],"south":[{"start":1,"end":3}]}}
 {"name":"Scarab Beetle","location":"On trees","price":10000,"times":[{"start":23,"end":8}],"months":{"north":[{"start":7,"end":8}],"south":[{"start":1,"end":2}]}}
